@@ -1,4 +1,4 @@
-CC=gcc
+2CC=gcc
 CCOPTS=-Wall -Wextra -Werror
 LIBS=
 
